@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1029896174299-c9enava35h4me3q01s1s7qsje3340jrp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://video-meeting-3b2eb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1029896174299</string>
+    <string name="google_api_key" translatable="false">AIzaSyAUSxEWBYTz3p5Nlp6g4GN2P-mAYhB6r44</string>
+    <string name="google_app_id" translatable="false">1:1029896174299:android:d75876cbaeff7c6b112afe</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAUSxEWBYTz3p5Nlp6g4GN2P-mAYhB6r44</string>
+    <string name="google_storage_bucket" translatable="false">video-meeting-3b2eb.appspot.com</string>
+    <string name="project_id" translatable="false">video-meeting-3b2eb</string>
+</resources>

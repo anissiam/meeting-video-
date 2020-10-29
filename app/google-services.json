@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1029896174299",
+    "firebase_url": "https://video-meeting-3b2eb.firebaseio.com",
+    "project_id": "video-meeting-3b2eb",
+    "storage_bucket": "video-meeting-3b2eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029896174299:android:d75876cbaeff7c6b112afe",
+        "android_client_info": {
+          "package_name": "com.anisDev.videomeeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029896174299-c9enava35h4me3q01s1s7qsje3340jrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSxEWBYTz3p5Nlp6g4GN2P-mAYhB6r44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029896174299-c9enava35h4me3q01s1s7qsje3340jrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
